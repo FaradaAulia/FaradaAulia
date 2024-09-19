@@ -1,4 +1,3 @@
-<p align="center">![logo](https://github.com/FaradaAulia/FaradaAulia/blob/main/welcome%20to%20MY.jpg)
 <h1 align="center">Hi 👋, I'm Farada Aulia</h1>
 <h3 align="center">I'm new here</h3>
 
